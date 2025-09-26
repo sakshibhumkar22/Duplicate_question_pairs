@@ -3,9 +3,6 @@ scikit-learn==1.2.2
 xgboost==3.0.5
 fuzzywuzzy
 distance
-<<<<<<< HEAD
-beautifulsoup4
-=======
 beautifulsoup4
 
->>>>>>> 27039a13db52ea82dd7a8b3d2085830a3d98bfdc
+
