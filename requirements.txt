@@ -1,5 +1,6 @@
 streamlit
-scikit-learn
+scikit-learn version: 1.2.2
+xgboost version: 3.0.5
 fuzzywuzzy
 distance
 bs4
